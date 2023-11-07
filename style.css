@@ -1,0 +1,11 @@
+[href^="https://"] {
+    color: brown;
+}
+
+[href^="#"] {
+    color: brown;
+}
+
+.holder>p{
+    font-size: 24px;
+}
